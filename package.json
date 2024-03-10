@@ -1,0 +1,11 @@
+{
+  "name": "harryfitnesswebsite-main",
+  "version": "1.0.0",
+  "description": "",
+  "main": "timer.js",
+  "scripts": {
+    "build": "npm run build"
+  },
+  "author": "",
+  "license": "ISC"
+}
